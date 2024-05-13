@@ -1,13 +1,10 @@
-# Limitateur
-Limitateur de vitesse FiveM 
+# Limitateur de vitesse
+Limitateur de vitesse FiveM, compatible avec les bases esx standard, si California est utilisé.
 
-# Modification
-Tout ce que vous pouvez modifié est en haut de menu.lua
+# Contributions
+Toute contribution est appréciée grandement :)
 
-# California
-Ceux qui utilise une base california peuvent utiliser la meme version que les bases esx standard
-
-# Preview
+# Démonstration
 https://streamable.com/i4l52f
 
 # Besoin d'aide 
